@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, welcome my profile 👋</h1><br> 
 <h1 align="center">Hamid Baydamirov</h1>
+<img align="right" alt="Coding" width = "400" src= "https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"> 
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
