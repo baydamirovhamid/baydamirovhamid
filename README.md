@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, welcome my profile 👋</h1><br> 
+<h1 align="center">Hey there, welcome my profile 👋</h1>
 <h1 align="center">Hamid Baydamirov</h1>
 <img align="right" alt="Coding" width = "400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJscHFpc2JseTFncmgxejd6anU2NnZmemE1dml4YjloOXA0Mjk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp"> 
 <h3 align="center">Backend engineering enthusiast</h3>
