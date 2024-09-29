@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: flex-end;">
-  <img src="https://komarev.com/ghpvc/?username=baydamirovhamid&color=brightgreen" alt="Total Views" />
 </div>
 <h1 align="center">Welcome to my coding playground 🧩</h1>
 
